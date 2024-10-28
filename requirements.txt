@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-astradb
+PyPDF2
+pypdf
+python-dotenv
+flask
+ipykernel
+
+-e .
+
