@@ -2,7 +2,7 @@ langchain
 langchain-community
 langchain-core
 langchain-astradb
-google-generativeai
+langchain-google-genai
 langchain-google-vertexai
 PyPDF2
 pypdf
